@@ -1,2 +1,2 @@
 # Lincoln-map
-Leaflet experiment showing Lincoln's travels
+In-progress Leaflet experiment showing Lincoln's travels: https://cderose.github.io/Lincoln-map/
