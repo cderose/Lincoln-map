@@ -1,0 +1,15 @@
+#header {
+	/*background: #212121;*/
+	font-family: 'Brush Script';
+	font-size: 25px;
+	font-variant: small-caps;
+	color: #335E39;
+}
+
+#footer {
+	font-family: 'Brush Script';
+	font-style: italic;
+	font-size: 15px;
+	font-variant: small-caps;
+	color: #335E39;
+}
