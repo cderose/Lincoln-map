@@ -29,7 +29,7 @@ window.onload = function () {
       }
     });
 
-    var map = L.map('my-map')
+    var map = L.map('my-map',{scrollWheelZoom:false})
 
 //    .fitBounds(geojson.getBounds());
     .setView([42, -89.5], 6);
