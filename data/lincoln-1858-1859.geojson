@@ -1,0 +1,8741 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "3-Feb",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "October\n  20",
+        "Year": 1858,
+        "Location": "Rushville, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.55,
+          40.1167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "25-Jan",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "3-Aug",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "11-Oct",
+        "Year": 1858,
+        "Location": "Monmouth, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6333,
+          40.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "14-Jan",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "17-Aug",
+        "Year": 1858,
+        "Location": "Bath, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1333,
+          40.1833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "1-Nov",
+        "Year": 1858,
+        "Location": "Decatur,\n  IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.95,
+          39.8333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "26-Aug",
+        "Year": 1858,
+        "Location": "Macomb, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6667,
+          40.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "5-Oct",
+        "Year": 1858,
+        "Location": "Peoria, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5833,
+          40.6833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "26-Feb",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "8-Oct",
+        "Year": 1858,
+        "Location": "Monmouth, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6333,
+          40.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "28-Jan",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "19-Jan",
+        "Year": 1858,
+        "Location": "Springfield,\n  IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "28-Dec",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Sunday",
+        "Month-Day": "19-Dec",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "8-Mar",
+        "Year": 1858,
+        "Location": "Clinton, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.95,
+          40.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "8-Sep",
+        "Year": 1858,
+        "Location": "Hillsboro, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4833,
+          39.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "31-Dec",
+        "Year": 1858,
+        "Location": "Bloomington, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9833,
+          40.4833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "17-Nov",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Sunday",
+        "Month-Day": "5-Sep",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "26-Nov",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "3-Nov",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "20-Sep",
+        "Year": 1858,
+        "Location": "Sullivan, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.6,
+          39.5833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "25-Dec",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "11-Sep",
+        "Year": 1858,
+        "Location": "Alton, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1833,
+          38.8833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "14-Dec",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "11-Mar",
+        "Year": 1858,
+        "Location": "Chicago, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65,
+          41.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "10-Jun",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "7-May",
+        "Year": 1858,
+        "Location": "Beardstown, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4167,
+          40.0167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "21-Jun",
+        "Year": 1858,
+        "Location": "Springfield,\n  IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "4-Jun",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "22-May",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "13-May",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "9-Jun",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "1-Oct",
+        "Year": 1858,
+        "Location": "Pittsfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8,
+          39.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "29-Apr",
+        "Year": 1858,
+        "Location": "Danville, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6167,
+          40.1167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "1-Apr",
+        "Year": 1858,
+        "Location": "Metamora, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.35,
+          40.7833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "27-Jul",
+        "Year": 1858,
+        "Location": "Clinton, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.95,
+          40.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "16-Jul",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "2-Jul",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "24-Apr",
+        "Year": 1858,
+        "Location": "Urbana, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2,
+          40.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "8-Feb",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "5-Feb",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "5-Aug",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "26-Oct",
+        "Year": 1858,
+        "Location": "Macomb, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6667,
+          40.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "12-Jan",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Sunday",
+        "Month-Day": "17-Oct",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "11-Aug",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "11-Feb",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "6-Jan",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "20-Aug",
+        "Year": 1858,
+        "Location": "Morris, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.4167,
+          41.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "3-Mar",
+        "Year": 1858,
+        "Location": "Clinton, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.95,
+          40.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "20-Nov",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "3-Sep",
+        "Year": 1858,
+        "Location": "Bloomington, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9833,
+          40.4833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "26-Mar",
+        "Year": 1858,
+        "Location": "Lincoln, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.35,
+          40.1333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "17-Sep",
+        "Year": 1858,
+        "Location": "Mattoon, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3667,
+          39.4667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Sunday",
+        "Month-Day": "12-Dec",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "8-Nov",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "18-May",
+        "Year": 1858,
+        "Location": "Alton, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1833,
+          38.8833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "16-Jun",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "1-May",
+        "Year": 1858,
+        "Location": "Danville, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6167,
+          40.1167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Sunday",
+        "Month-Day": "27-Jun",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "15-May",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "10-Jul",
+        "Year": 1858,
+        "Location": "Chicago, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65,
+          41.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "13-Apr",
+        "Year": 1858,
+        "Location": "Urbana,\n  IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2,
+          40.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Sunday",
+        "Month-Day": "4-Jul",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "22-Apr",
+        "Year": 1858,
+        "Location": "Urbana, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2,
+          40.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "9-Jul",
+        "Year": 1858,
+        "Location": "Chicago, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65,
+          41.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "1-May",
+        "Year": 1858,
+        "Location": "Danville, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6167,
+          40.1167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "1-Feb",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "18-Jan",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "9-Oct",
+        "Year": 1858,
+        "Location": "Oquawka, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9333,
+          40.9167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "16-Aug",
+        "Year": 1858,
+        "Location": "Bath,\n  IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1333,
+          40.1833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "27-Feb",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "27-Aug",
+        "Year": 1858,
+        "Location": "Freeport, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6167,
+          42.2833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "4-Oct",
+        "Year": 1858,
+        "Location": "Metamora, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.35,
+          40.7833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "2-Aug",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "2-Feb",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Sunday",
+        "Month-Day": "10-Oct",
+        "Year": 1858,
+        "Location": "Burlington, IA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1,
+          40.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "15-Jan",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "24-Dec",
+        "Year": 1858,
+        "Location": "Springfield,\n  IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "2-Nov",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "21-Sep",
+        "Year": 1858,
+        "Location": "Danville, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6167,
+          40.1167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "10-Mar",
+        "Year": 1858,
+        "Location": "Chicago, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65,
+          41.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "10-Sep",
+        "Year": 1858,
+        "Location": "Hillsboro, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4833,
+          39.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "16-Nov",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "December\n  30",
+        "Year": 1858,
+        "Location": "Bloomington, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9833,
+          40.4833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "4-Sep",
+        "Year": 1858,
+        "Location": "Bloomington, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9833,
+          40.4833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "27-Nov",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "4-Mar",
+        "Year": 1858,
+        "Location": "Clinton,\n  IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.95,
+          40.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "9-Sep",
+        "Year": 1858,
+        "Location": "Hillsboro, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4833,
+          39.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "8-Jun",
+        "Year": 1858,
+        "Location": "Springfield,\n  IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "June\n  11",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "6-May",
+        "Year": 1858,
+        "Location": "Beardstown, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4167,
+          40.0167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "1-Mar",
+        "Year": 1858,
+        "Location": "Clinton, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.95,
+          40.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "1-Apr",
+        "Year": 1858,
+        "Location": "Metamora, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.35,
+          40.7833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Sunday",
+        "Month-Day": "25-Apr",
+        "Year": 1858,
+        "Location": "Urbana, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2,
+          40.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "3-Jul",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "17-Jul",
+        "Year": 1858,
+        "Location": "Atlanta, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2333,
+          40.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "19-Apr",
+        "Year": 1858,
+        "Location": "Bloomington, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9833,
+          40.4833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "10-Feb",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "10-Aug",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "2-Oct",
+        "Year": 1858,
+        "Location": "Naples, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6,
+          39.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "7-Jan",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "21-Aug",
+        "Year": 1858,
+        "Location": "Ottawa, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.8333,
+          41.3333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "4-Aug",
+        "Year": 1858,
+        "Location": "Carlinville, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8667,
+          39.2667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "22-Jan",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "27-Oct",
+        "Year": 1858,
+        "Location": "Toulon, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.85,
+          41.0833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "4-Feb",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "January\n  13",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "16-Oct",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "9-Aug",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "9-Feb",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "9-Nov",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "27-Mar",
+        "Year": 1858,
+        "Location": "Lincoln, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.35,
+          40.1333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "December\n  22",
+        "Year": 1858,
+        "Location": "Bloomington, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9833,
+          40.4833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "27-Sep",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "4-Nov",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "16-Sep",
+        "Year": 1858,
+        "Location": "Centralia,\n  IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1333,
+          38.5167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "10-Nov",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "2-Sep",
+        "Year": 1858,
+        "Location": "Clinton, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.95,
+          40.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "7-Dec",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "31-May",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "28-May",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "July\n  8",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "12-Apr",
+        "Year": 1858,
+        "Location": "Urbana, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2,
+          40.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "23-Apr",
+        "Year": 1858,
+        "Location": "Urbana, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2,
+          40.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "5-Jul",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "20-Jul",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "6-Apr",
+        "Year": 1858,
+        "Location": "Bloomington, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9833,
+          40.4833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "2-Dec",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "24-Nov",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "7-Sep",
+        "Year": 1858,
+        "Location": "Mattoon,\n  IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3667,
+          39.4667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "15-Nov",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "13-Sep",
+        "Year": 1858,
+        "Location": "Greenville, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4,
+          38.8833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "30-Nov",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "22-Sep",
+        "Year": 1858,
+        "Location": "Danville, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6167,
+          40.1167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "1-Nov",
+        "Year": 1858,
+        "Location": "Decatur,\n  IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.95,
+          39.8333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "22-Mar",
+        "Year": 1858,
+        "Location": "Lincoln, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.35,
+          40.1333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "27-Dec",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "18-Nov",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "2-Dec",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Sunday",
+        "Month-Day": "29-Aug",
+        "Year": 1858,
+        "Location": "Pekin, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          40.5667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "18-Aug",
+        "Year": 1858,
+        "Location": "Peoria, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5833,
+          40.6833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "18-Feb",
+        "Year": 1858,
+        "Location": "Chicago, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65,
+          41.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "30-Aug",
+        "Year": 1858,
+        "Location": "Tremont, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4833,
+          40.5167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "16-Jan",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "13-Oct",
+        "Year": 1858,
+        "Location": "Quincy, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.4,
+          39.9333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "1-Feb",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "27-Jan",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "22-Oct",
+        "Year": 1858,
+        "Location": "Carthage, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1333,
+          40.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "7-Oct",
+        "Year": 1858,
+        "Location": "Galesburg, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3667,
+          40.9333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "2-Jan",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "24-Aug",
+        "Year": 1858,
+        "Location": "Galesburg, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3667,
+          40.9333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "24-Feb",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "15-Feb",
+        "Year": 1858,
+        "Location": "Chicago, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65,
+          41.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "14-Jul",
+        "Year": 1858,
+        "Location": "Chicago, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65,
+          41.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Sunday",
+        "Month-Day": "25-Jul",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "26-Apr",
+        "Year": 1858,
+        "Location": "Urbana, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2,
+          40.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "31-Jul",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "17-Apr",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "July\n  19",
+        "Year": 1858,
+        "Location": "Decatur, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.95,
+          39.8333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "28-Jul",
+        "Year": 1858,
+        "Location": "Clinton, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.95,
+          40.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "23-Jun",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "12-Jun",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "11-May",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Sunday",
+        "Month-Day": "6-Jun",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "20-May",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "18-Sep",
+        "Year": 1858,
+        "Location": "Charleston, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1667,
+          39.4833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "18-Mar",
+        "Year": 1858,
+        "Location": "Lincoln, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.35,
+          40.1333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "29-Sep",
+        "Year": 1858,
+        "Location": "Winchester, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.45,
+          39.6167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "9-Dec",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "1-Mar",
+        "Year": 1858,
+        "Location": "Clinton, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.95,
+          40.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "1-Sep",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "30-Mar",
+        "Year": 1858,
+        "Location": "Metamora, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.35,
+          40.7833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "30-Sep",
+        "Year": 1858,
+        "Location": "Winchester, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.45,
+          39.6167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "15-Sep",
+        "Year": 1858,
+        "Location": "Jonesboro, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2667,
+          37.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "10-Dec",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "24-Sep",
+        "Year": 1858,
+        "Location": "Urbana, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2,
+          40.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "21-Dec",
+        "Year": 1858,
+        "Location": "Bloomington, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9833,
+          40.4833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "24-Mar",
+        "Year": 1858,
+        "Location": "Lincoln, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.35,
+          40.1333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "15-Oct",
+        "Year": 1858,
+        "Location": "Alton, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1833,
+          38.8833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Sunday",
+        "Month-Day": "7-Feb",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Sunday",
+        "Month-Day": "24-Oct",
+        "Year": 1858,
+        "Location": "Blandinsville, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.85,
+          40.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Sunday",
+        "Month-Day": "22-Aug",
+        "Year": 1858,
+        "Location": "Ottawa, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.8333,
+          41.3333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "4-Jan",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "1-Oct",
+        "Year": 1858,
+        "Location": "Pittsfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8,
+          39.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "13-Aug",
+        "Year": 1858,
+        "Location": "Havana, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.05,
+          40.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "30-Oct",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "9-Jan",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "18-Oct",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "29-Oct",
+        "Year": 1858,
+        "Location": "Petersburg, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8333,
+          40
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "8-Apr",
+        "Year": 1858,
+        "Location": "Bloomington, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9833,
+          40.4833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "12-Jul",
+        "Year": 1858,
+        "Location": "Chicago, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65,
+          41.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "5-Apr",
+        "Year": 1858,
+        "Location": "Bloomington, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9833,
+          40.4833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "6-Jul",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "20-Apr",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "25-Jun",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "14-Jun",
+        "Year": 1858,
+        "Location": "Springfield,\n  IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "17-May",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "26-May",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "28-Jun",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "19-Jun",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "19-Nov",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Sunday",
+        "Month-Day": "12-Sep",
+        "Year": 1858,
+        "Location": "Highland, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6667,
+          38.7333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "23-Sep",
+        "Year": 1858,
+        "Location": "Danville,\n  IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6167,
+          40.1167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "25-Nov",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "6-Sep",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "25-Feb",
+        "Year": 1858,
+        "Location": "Springfield,\n  IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "2-Jan",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "6-Oct",
+        "Year": 1858,
+        "Location": "Peoria, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5833,
+          40.6833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "25-Aug",
+        "Year": 1858,
+        "Location": "Augusta, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.95,
+          40.2167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "14-Aug",
+        "Year": 1858,
+        "Location": "Havana, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.05,
+          40.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "31-Aug",
+        "Year": 1858,
+        "Location": "Carlinville, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8667,
+          39.2667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "12-Oct",
+        "Year": 1858,
+        "Location": "Macomb, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6667,
+          40.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "26-Jan",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "23-Oct",
+        "Year": 1858,
+        "Location": "Fountain\n  Green, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9667,
+          40.4667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "1-Jun",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "28-Aug",
+        "Year": 1858,
+        "Location": "El Paso, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89,
+          40.7333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "19-Feb",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "19-Aug",
+        "Year": 1858,
+        "Location": "Peoria, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5833,
+          40.6833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "2-Aug",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "29-Jul",
+        "Year": 1858,
+        "Location": "Monticello,\n  IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5667,
+          40.0167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "27-Apr",
+        "Year": 1858,
+        "Location": "Danville, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6167,
+          40.1167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "1-Jul",
+        "Year": 1858,
+        "Location": "Springfield,\n  IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "16-Apr",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "30-Jul",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "15-Jul",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "24-Jul",
+        "Year": 1858,
+        "Location": "Chicago, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65,
+          41.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "2-Apr",
+        "Year": 1858,
+        "Location": "Metamora, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.35,
+          40.7833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "1-Sep",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "May\n  10",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "1-Jul",
+        "Year": 1858,
+        "Location": "Springfield,\n  IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "7-Jun",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "22-Jun",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "11-Dec",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "14-Sep",
+        "Year": 1858,
+        "Location": "Jonesboro, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2667,
+          37.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "6-Nov",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "25-Sep",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "12-Nov",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "31-Mar",
+        "Year": 1858,
+        "Location": "Metamora, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.35,
+          40.7833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "8-Dec",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Sunday",
+        "Month-Day": "19-Sep",
+        "Year": 1858,
+        "Location": "Charleston, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1667,
+          39.4833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "28-Sep",
+        "Year": 1858,
+        "Location": "Winchester, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.45,
+          39.6167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "19-Oct",
+        "Year": 1858,
+        "Location": "Mount Sterling, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.75,
+          39.9833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "28-Oct",
+        "Year": 1858,
+        "Location": "Kewanee, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9167,
+          41.2333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "8-Jan",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "23-Feb",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "23-Aug",
+        "Year": 1858,
+        "Location": "Henry,\n  IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.35,
+          41.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "5-Jan",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "12-Aug",
+        "Year": 1858,
+        "Location": "Beardstown, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4167,
+          40.0167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "11-Jan",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "25-Oct",
+        "Year": 1858,
+        "Location": "Macomb, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6667,
+          40.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "August\n  6",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "6-Feb",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "21-Apr",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "7-Jul",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "10-Apr",
+        "Year": 1858,
+        "Location": "Bloomington, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9833,
+          40.4833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "22-Jul",
+        "Year": 1858,
+        "Location": "Chicago, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65,
+          41.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "29-Jun",
+        "Year": 1858,
+        "Location": "Springfield,\n  IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "30-Jun",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "27-May",
+        "Year": 1858,
+        "Location": "Springfield,\n  IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "1-Jun",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "24-Jun",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "15-Jun",
+        "Year": 1858,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "1-Nov",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "9-May",
+        "Year": 1859,
+        "Location": "Danville, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6167,
+          40.1167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "13-Jun",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "22-Jun",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "4-May",
+        "Year": 1859,
+        "Location": "Danville, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6167,
+          40.1167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "21-May",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "7-Jun",
+        "Year": 1859,
+        "Location": "Chicago, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65,
+          41.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "2-Apr",
+        "Year": 1859,
+        "Location": "Lincoln, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.35,
+          40.1333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "16-Apr",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "30-Jul",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "27-Apr",
+        "Year": 1859,
+        "Location": "Urbana, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2,
+          40.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "July\n  1",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "29-Jul",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "18-Jul",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "19-Feb",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "19-Aug",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "28-Feb",
+        "Year": 1859,
+        "Location": "Chicago, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65,
+          41.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "26-Jan",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "12-Oct",
+        "Year": 1859,
+        "Location": "Clinton, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.95,
+          40.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "17-Jan",
+        "Year": 1859,
+        "Location": "Springfield,\n  IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "31-Aug",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "14-Feb",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Sunday",
+        "Month-Day": "14-Aug",
+        "Year": 1859,
+        "Location": "Council Bluffs, IA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.85,
+          41.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "3-Jan",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "6-Oct",
+        "Year": 1859,
+        "Location": "Clinton, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.95,
+          40.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "1-Oct",
+        "Year": 1859,
+        "Location": "Beloit, WI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0167,
+          42.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "14-Nov",
+        "Year": 1859,
+        "Location": "Danville, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6167,
+          40.1167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "6-Sep",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "25-Nov",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "3-Dec",
+        "Year": 1859,
+        "Location": "Leavenworth, Kansas Territory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.9167,
+          39.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "26-Dec",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "23-Mar",
+        "Year": 1859,
+        "Location": "Lincoln, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.35,
+          40.1333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "12-Mar",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "12-Sep",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "28-Nov",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "15-Jun",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "24-Jun",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "2-May",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "27-May",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "16-May",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "30-Jun",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "18-Jun",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "29-Jun",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "9-Apr",
+        "Year": 1859,
+        "Location": "Bloomington, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9833,
+          40.4833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "22-Jul",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "4-Apr",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "13-Jul",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Sunday",
+        "Month-Day": "10-Apr",
+        "Year": 1859,
+        "Location": "Bloomington, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9833,
+          40.4833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "21-Apr",
+        "Year": 1859,
+        "Location": "Urbana,\n  IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2,
+          40.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "7-Jul",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "6-Aug",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "25-Oct",
+        "Year": 1859,
+        "Location": "Urbana, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2,
+          40.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "11-Jan",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "14-Oct",
+        "Year": 1859,
+        "Location": "Clinton, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.95,
+          40.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "12-Aug",
+        "Year": 1859,
+        "Location": "Council Bluffs, IA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.85,
+          41.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "5-Jan",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "23-Aug",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "8-Jan",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "19-Oct",
+        "Year": 1859,
+        "Location": "Urbana, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2,
+          40.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "28-Mar",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "28-Sep",
+        "Year": 1859,
+        "Location": "Lincoln, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.35,
+          40.1333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "19-Mar",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "19-Sep",
+        "Year": 1859,
+        "Location": "Indianapolis, IN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.15,
+          39.7667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "12-Nov",
+        "Year": 1859,
+        "Location": "Chicago, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65,
+          41.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "31-Mar",
+        "Year": 1859,
+        "Location": "Lincoln, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.35,
+          40.1333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "5-Dec",
+        "Year": 1859,
+        "Location": "Leavenworth, Kansas Territory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.9167,
+          39.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "20-Dec",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "14-Mar",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Sunday",
+        "Month-Day": "11-Dec",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "14-Sep",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "6-Jun",
+        "Year": 1859,
+        "Location": "Chicago, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65,
+          41.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "20-May",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "11-May",
+        "Year": 1859,
+        "Location": "Danville, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6167,
+          40.1167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "23-Jun",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "28-Jul",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "26-Apr",
+        "Year": 1859,
+        "Location": "Urbana, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2,
+          40.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "25-Jul",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "14-Jul",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "15-Aug",
+        "Year": 1859,
+        "Location": "Council Bluffs, IA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.85,
+          41.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "15-Feb",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "24-Aug",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "7-Oct",
+        "Year": 1859,
+        "Location": "Clinton, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.95,
+          40.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "24-Feb",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "1-Feb",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "27-Jan",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "1-Aug",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "13-Oct",
+        "Year": 1859,
+        "Location": "Clinton, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.95,
+          40.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "18-Aug",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "18-Feb",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "18-Nov",
+        "Year": 1859,
+        "Location": "Mt. Vernon, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "1-Nov",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "22-Sep",
+        "Year": 1859,
+        "Location": "Lincoln, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.35,
+          40.1333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "27-Dec",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "22-Mar",
+        "Year": 1859,
+        "Location": "Lincoln, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.35,
+          40.1333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "16-Dec",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "7-Mar",
+        "Year": 1859,
+        "Location": "Decatur, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.95,
+          39.8333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "2-Dec",
+        "Year": 1859,
+        "Location": "Troy, Kansas\n  Territory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.0833,
+          39.7667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "7-Sep",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "24-Nov",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "28-Jun",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "26-May",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "17-May",
+        "Year": 1859,
+        "Location": "Springfield,\n  IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "14-Jun",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "3-May",
+        "Year": 1859,
+        "Location": "Danville, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6167,
+          40.1167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "25-Jun",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "1-Apr",
+        "Year": 1859,
+        "Location": "Lincoln, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.35,
+          40.1333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "1-Mar",
+        "Year": 1859,
+        "Location": "Chicago, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65,
+          41.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "11-Apr",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "6-Jul",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "20-Apr",
+        "Year": 1859,
+        "Location": "Urbana, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2,
+          40.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "23-Jul",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "12-Jul",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "April\n  8",
+        "Year": 1859,
+        "Location": "Bloomington, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9833,
+          40.4833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "1-Feb",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "2-May",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "29-Oct",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "18-Oct",
+        "Year": 1859,
+        "Location": "Urbana,\n  IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2,
+          40.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "13-Aug",
+        "Year": 1859,
+        "Location": "Council Bluffs, IA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.85,
+          41.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "1-Oct",
+        "Year": 1859,
+        "Location": "Beloit, WI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0167,
+          42.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "4-Jan",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "22-Aug",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "22-Feb",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "21-Jan",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "24-Oct",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "10-Jan",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "15-Oct",
+        "Year": 1859,
+        "Location": "Clinton, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.95,
+          40.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "24-Sep",
+        "Year": 1859,
+        "Location": "Lincoln, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.35,
+          40.1333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "24-Mar",
+        "Year": 1859,
+        "Location": "Lincoln, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.35,
+          40.1333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "21-Dec",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "15-Mar",
+        "Year": 1859,
+        "Location": "Clinton, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.95,
+          40.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "30-Mar",
+        "Year": 1859,
+        "Location": "Lincoln, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.35,
+          40.1333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Sunday",
+        "Month-Day": "13-Nov",
+        "Year": 1859,
+        "Location": "Danville, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6167,
+          40.1167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "30-Sep",
+        "Year": 1859,
+        "Location": "Chicago, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65,
+          41.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Sunday",
+        "Month-Day": "4-Dec",
+        "Year": 1859,
+        "Location": "Leavenworth, Kansas Territory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.9167,
+          39.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "1-Mar",
+        "Year": 1859,
+        "Location": "Chicago, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65,
+          41.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "22-Nov",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "1-Sep",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "9-Dec",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "29-Sep",
+        "Year": 1859,
+        "Location": "Chicago, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65,
+          41.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "29-Mar",
+        "Year": 1859,
+        "Location": "Lincoln, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.35,
+          40.1333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Sunday",
+        "Month-Day": "18-Sep",
+        "Year": 1859,
+        "Location": "Cincinnati, OH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.45,
+          39.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "18-Mar",
+        "Year": 1859,
+        "Location": "Clinton, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.95,
+          40.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "28-Apr",
+        "Year": 1859,
+        "Location": "Urbana, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2,
+          40.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "19-Apr",
+        "Year": 1859,
+        "Location": "Urbana, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2,
+          40.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "25-Apr",
+        "Year": 1859,
+        "Location": "Urbana, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2,
+          40.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Sunday",
+        "Month-Day": "3-Jul",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "14-Apr",
+        "Year": 1859,
+        "Location": "Bloomington, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9833,
+          40.4833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "20-Jun",
+        "Year": 1859,
+        "Location": "Springfield,\n  IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "6-May",
+        "Year": 1859,
+        "Location": "Danville, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6167,
+          40.1167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "11-Jun",
+        "Year": 1859,
+        "Location": "Springfield,\n  IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "12-May",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "23-May",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "1-Dec",
+        "Year": 1859,
+        "Location": "St. Joseph, MO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8333,
+          39.7667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "29-Dec",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "9-Sep",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "9-Mar",
+        "Year": 1859,
+        "Location": "Clinton, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.95,
+          40.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "1-Dec",
+        "Year": 1859,
+        "Location": "St. Joseph, MO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8333,
+          39.7667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "4-Mar",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "16-Nov",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "10-Mar",
+        "Year": 1859,
+        "Location": "Clinton, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.95,
+          40.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "15-Dec",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "10-Sep",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "March\n  21",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "24-Dec",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "21-Sep",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "2-Nov",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "15-Jan",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "10-Oct",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "2-Aug",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "24-Jan",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "21-Oct",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "2-Feb",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "27-Aug",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "16-Feb",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "16-Aug",
+        "Year": 1859,
+        "Location": "St. Joseph,\n  MO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8333,
+          39.7667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Sunday",
+        "Month-Day": "9-Oct",
+        "Year": 1859,
+        "Location": "Springfield,\n  IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "18-Jan",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "29-Jan",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "July\n  11",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "20-Jul",
+        "Year": 1859,
+        "Location": "Chicago, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65,
+          41.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "6-Apr",
+        "Year": 1859,
+        "Location": "Bloomington, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9833,
+          40.4833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "23-Apr",
+        "Year": 1859,
+        "Location": "Urbana, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2,
+          40.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "5-Jul",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "8-Jul",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "19-May",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "28-May",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "17-Jun",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "14-May",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "25-May",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "3-Jun",
+        "Year": 1859,
+        "Location": "Chicago, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65,
+          41.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "2-Sep",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "21-Nov",
+        "Year": 1859,
+        "Location": "Springfield,\n  IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "2-Mar",
+        "Year": 1859,
+        "Location": "Chicago, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65,
+          41.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "7-Dec",
+        "Year": 1859,
+        "Location": "Leavenworth, Kansas Territory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.9167,
+          39.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "10-Nov",
+        "Year": 1859,
+        "Location": "Chicago, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65,
+          41.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "16-Sep",
+        "Year": 1859,
+        "Location": "Columbus,\n  OH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9833,
+          39.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "4-Nov",
+        "Year": 1859,
+        "Location": "Mechanicsburg, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.3833,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "27-Sep",
+        "Year": 1859,
+        "Location": "Lincoln, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.35,
+          40.1333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "9-Aug",
+        "Year": 1859,
+        "Location": "Springfield,\n  IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "9-Feb",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "13-Jan",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "27-Oct",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "4-Aug",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "4-Feb",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "21-Feb",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Sunday",
+        "Month-Day": "21-Aug",
+        "Year": 1859,
+        "Location": "Quincy, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.4,
+          39.9333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "7-Jan",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Sunday",
+        "Month-Day": "2-Oct",
+        "Year": 1859,
+        "Location": "Janesville, WI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0167,
+          42.6667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "10-Feb",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "2-Jul",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "30-Apr",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "1-Apr",
+        "Year": 1859,
+        "Location": "Lincoln, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.35,
+          40.1333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "27-Jul",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "29-Apr",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "18-Apr",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "9-Jun",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "13-May",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Sunday",
+        "Month-Day": "22-May",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "7-May",
+        "Year": 1859,
+        "Location": "Danville, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6167,
+          40.1167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "June\n  21",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "10-Jun",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "11-Mar",
+        "Year": 1859,
+        "Location": "Clinton, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.95,
+          40.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "14-Dec",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "20-Sep",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "3-Nov",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Sunday",
+        "Month-Day": "25-Dec",
+        "Year": 1859,
+        "Location": "Springfield,\n  IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "5-Mar",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "26-Nov",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "31-Dec",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "17-Nov",
+        "Year": 1859,
+        "Location": "Springfield, IL and En route to\n  Mt. Vernon, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "19-Dec",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "19-Jan",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "28-Jan",
+        "Year": 1859,
+        "Location": "Springfield,\n  IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "8-Oct",
+        "Year": 1859,
+        "Location": "Clinton,\n  IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.95,
+          40.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "5-Oct",
+        "Year": 1859,
+        "Location": "Clinton, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.95,
+          40.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "26-Feb",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "31-Jan",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "17-Aug",
+        "Year": 1859,
+        "Location": "St. Joseph, MO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8333,
+          39.7667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "17-Feb",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "14-Jan",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "11-Oct",
+        "Year": 1859,
+        "Location": "Clinton, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.95,
+          40.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "3-Feb",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "3-Aug",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "25-Jan",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "20-Oct",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "9-Jul",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "4-Jul",
+        "Year": 1859,
+        "Location": "Atlanta, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2333,
+          40.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "13-Apr",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "1-Sep",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "2-Jun",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "27-Jun",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "May\n  30",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "16-Jun",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "July\n  1",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "18-May",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "8-Nov",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "17-Sep",
+        "Year": 1859,
+        "Location": "Dayton, OH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1833,
+          39.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "17-Mar",
+        "Year": 1859,
+        "Location": "Clinton, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.95,
+          40.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "26-Sep",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "23-Dec",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "26-Mar",
+        "Year": 1859,
+        "Location": "Lincoln, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.35,
+          40.1333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "3-Mar",
+        "Year": 1859,
+        "Location": "Springfield,\n  IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "6-Dec",
+        "Year": 1859,
+        "Location": "Leavenworth, Kansas Territory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.9167,
+          39.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "3-Sep",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "11-Nov",
+        "Year": 1859,
+        "Location": "Chicago, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65,
+          41.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "2-Jun",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "20-Aug",
+        "Year": 1859,
+        "Location": "Hannibal, MO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.35,
+          39.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "6-Jan",
+        "Year": 1859,
+        "Location": "Springfield,\n  IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "3-Oct",
+        "Year": 1859,
+        "Location": "Chicago, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65,
+          41.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Thursday",
+        "Month-Day": "11-Aug",
+        "Year": 1859,
+        "Location": "St. Joseph, MO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8333,
+          39.7667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "11-Feb",
+        "Year": 1859,
+        "Location": "Jacksonville, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2167,
+          39.7333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "17-Oct",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "12-Jan",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Saturday",
+        "Month-Day": "5-Feb",
+        "Year": 1859,
+        "Location": "Springfield,\n  IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Wednesday",
+        "Month-Day": "26-Oct",
+        "Year": 1859,
+        "Location": "Urbana, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2,
+          40.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Friday",
+        "Month-Day": "5-Aug",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Tuesday",
+        "Month-Day": "8-Feb",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "8-Aug",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "3-Jan",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "DayOfWeek": "Monday",
+        "Month-Day": "1-Aug",
+        "Year": 1859,
+        "Location": "Springfield, IL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6333,
+          39.8
+        ]
+      }
+    }
+  ]
+}
